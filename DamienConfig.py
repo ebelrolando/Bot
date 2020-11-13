@@ -22,7 +22,7 @@ class Messages():
         "**[👨‍💻](https://i.imgur.com/TaOKIkf.gif) Desarrollado por : @AmineSoukara**"
       ]
 
-      X_MSG = "Hey! [👋](https://i.imgur.com/Ljhp9Kk.gif) [{}](tg://user?id={}) \n©️ Read /help & /about"
+      X_MSG = "Hola! [👋](https://i.imgur.com/Ljhp9Kk.gif) [{}](tg://user?id={}) \n©️ Lee /help & /about"
 
       ABOUT_MSG = "©️ https://t.me/DamienSoukara"
       

@@ -22,7 +22,7 @@ class Messages():
         "**[👨‍💻](https://grouphelp.top/channel/api/beta/?file_id=AgACAgEAAxkBAAIrSV9yvE6VnQ9etRrWBUNPy07NoiegAAKVqTEbkLGYR-sHxxAbGYBQC-NuBgAEAQADAgADeQADb6AEAAEbBA.jpg) Desarrollado por : @AmineSoukara**"
       ]
 
-      X_MSG = "Hola! [👋](https://i.imgur.com/Ljhp9Kk.gif) [{}](tg://user?id={}) \n©️ Lee /help & /about"
+      X_MSG = "Hola! [👋](https://grouphelp.top/channel/api/beta/?file_id=AgACAgEAAxkBAAIrSV9yvE6VnQ9etRrWBUNPy07NoiegAAKVqTEbkLGYR-sHxxAbGYBQC-NuBgAEAQADAgADeQADb6AEAAEbBA.jpg) [{}](tg://user?id={}) \n©️ Lee /help & /about"
 
       ABOUT_MSG = "©️ https://t.me/DamienSoukara"
       

@@ -19,7 +19,7 @@ class Messages():
         
         "Otro texto 😅",
         
-        "**[👨‍💻](https://i.imgur.com/TaOKIkf.gif) Desarrollado por : @AmineSoukara**"
+        "**[👨‍💻](https://grouphelp.top/channel/api/beta/?file_id=AgACAgEAAxkBAAIrSV9yvE6VnQ9etRrWBUNPy07NoiegAAKVqTEbkLGYR-sHxxAbGYBQC-NuBgAEAQADAgADeQADb6AEAAEbBA.jpg) Desarrollado por : @AmineSoukara**"
       ]
 
       X_MSG = "Hola! [👋](https://i.imgur.com/Ljhp9Kk.gif) [{}](tg://user?id={}) \n©️ Lee /help & /about"

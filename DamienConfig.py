@@ -27,7 +27,4 @@ class Messages():
       ABOUT_MSG = "©️ https://t.me/DamienSoukara"
       
 
-  
-      
-      
-      
+ 

@@ -27,16 +27,6 @@ class Messages():
       ABOUT_MSG = "©️ https://t.me/DamienSoukara"
       
 
-    # on noncommand i.e message - echo the message on Telegram
-    dispatcher.add_handler(MessageHandler(Filters.text & ~Filters.command, pizza))
-
-        def pizza(update, context): > 
-        if (update.message.reply.text_upper().find("MANZANAS VERDES") > 0 ):
-             update.message.reply_text("Prefiero comer pizza")
-            
-
-if __name__ == '__main__':
-    main()
   
       
       

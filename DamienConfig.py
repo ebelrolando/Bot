@@ -32,7 +32,7 @@ class Messages():
     # Create the Updater and pass it your bot's token.
     # Make sure to set use_context=True to use the new context based callbacks
     # Post version 12 this will no longer be necessary
-    updater = Updater("BOT_TOKEN", use_context=True)
+    updater = Updater("1352432671:AAEzHRx-4F08H2Ja7CjFxnY7MStkB4fQG5Y", use_context=True)
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
@@ -42,8 +42,12 @@ class Messages():
     dispatcher.add_handler(CommandHandler("help", help_command))
 
     # on noncommand i.e message - echo the message on Telegram
-    dispatcher.add_handler(MessageHandler(Filters.text & ~Filters.command, echo))
+    dispatcher.add_handler(MessageHandler(Filters.text & ~Filters.command, pizza))
 
+        def pizza(update, context): > 
+        if (update.message.reply.text_upper().find("MANZANAS VERDES") > 0 ):
+             update.message.reply_text("Prefiero comer pizza")
+            
     # Start the Bot
     updater.start_polling()
 
@@ -55,9 +59,7 @@ class Messages():
 
 if __name__ == '__main__':
     main()
-      def pizza(update, context): > 
-        if (update.message.reply.text_upper().find("MANZANAS VERDES") > 0 ):
-             update.message.reply_text("Prefiero comer pizza")
+  
       
       
       

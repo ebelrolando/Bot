@@ -26,5 +26,6 @@ class Messages():
 
       ABOUT_MSG = "©️ https://t.me/DamienSoukara"
       
+      YUJI_MSG = "Ese es un mamon, su alias es @Yuji2020." 
 
  

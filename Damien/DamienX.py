@@ -22,10 +22,10 @@ def _about(client, message):
         )
 
 
-@Client.on_message(filters.private & filters.incoming & filters.command(['help']))
-def _help(client, message):
+@Client.on_message(filters.private & filters.incoming & filters.command(['ayuda']))
+def _ayuda(client, message):
     client.send_message(chat_id = message.chat.id,
-        text = tr.HELP_MSG[1],
+        text = tr.AYUDA_MSG[1],
         parse_mode="markdown",
         disable_notification = True,
         reply_markup = InlineKeyboardMarkup(map(1)),

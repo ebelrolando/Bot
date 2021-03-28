@@ -43,10 +43,10 @@ def help_answer(client, callback_query):
         text=tr.HELP_MSG[msg],    reply_markup=InlineKeyboardMarkup(map(msg))
     )
 
-@Client.on_message(filters.private & filters.incoming & filters.command(['yuji']))
-def _yuji(client, message):
+@Client.on_message(filters.private & filters.incoming & filters.command(['ebel']))
+def _ebel(client, message):
     client.send_message(message.chat.id,
-        text=tr.YUJI_MSG,
+        text=tr.EBEL_MSG,
         parse_mode="markdown",
         reply_to_message_id=message.message_id
         )

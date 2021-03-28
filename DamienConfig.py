@@ -22,7 +22,7 @@ class Messages():
         "**[👨‍💻](https://grouphelp.top/channel/api/beta/?file_id=AgACAgEAAxkBAAIrSV9yvE6VnQ9etRrWBUNPy07NoiegAAKVqTEbkLGYR-sHxxAbGYBQC-NuBgAEAQADAgADeQADb6AEAAEbBA.jpg) Desarrollado por : @AmineSoukara**"
       ]
 
-      X_MSG = "\U0001f1f8 Hola! [👋](https://i.ibb.co/FbJNC3b/botttt-jeva.jpg) [{}](tg://user?id={});\n te ayudaré a descargar música gratuitamente.\n Este bot está en Ruso pero te enseñaré a como usarlo sin traducir.\n ➥ Toca /ayuda para ver explicacón en español.\n ➥ Toca /info para obtener información del bot."
+      X_MSG = "♫♪ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı\n♫♪Hola! [👋](https://i.ibb.co/FbJNC3b/botttt-jeva.jpg) [{}](tg://user?id={});\n te ayudaré a descargar música gratuitamente.\n Este bot está en Ruso pero te enseñaré a como usarlo sin traducir.\n ➥ Toca /ayuda para ver explicacón en español.\n ➥ Toca /info para obtener información del bot."
 
       ABOUT_MSG = "©️ https://t.me/DamienSoukara"
       

@@ -12,7 +12,7 @@ class Config():
     API_HASH = "c9bec948217c0eae66f8f85e0e48d881"
 
 class Messages():
-      HELP_MSG = [
+      AYUDA_MSG = [
         ".",
 
         "**Hola mundo**",
@@ -22,10 +22,10 @@ class Messages():
         "**[👨‍💻](https://grouphelp.top/channel/api/beta/?file_id=AgACAgEAAxkBAAIrSV9yvE6VnQ9etRrWBUNPy07NoiegAAKVqTEbkLGYR-sHxxAbGYBQC-NuBgAEAQADAgADeQADb6AEAAEbBA.jpg) Desarrollado por : @AmineSoukara**"
       ]
 
-      X_MSG = "Hola! [👋](https://i.ibb.co/FbJNC3b/botttt-jeva.jpg) [{}](tg://user?id={}) \n©️ Lee /help & /about"
+      X_MSG = "\U0001f1f8 Hola! [👋](https://i.ibb.co/FbJNC3b/botttt-jeva.jpg) [{}](tg://user?id={});\n te ayudaré a descargar música gratuitamente.\n Este bot está en Ruso pero te enseñaré a como usarlo sin traducir.\n ➥ Toca /ayuda para ver explicacón en español.\n ➥ Toca /info para obtener información del bot."
 
       ABOUT_MSG = "©️ https://t.me/DamienSoukara"
       
-      YUJI_MSG = "Ese es un mamon, su alias es @Yuji2020." 
+      EBEL_MSG = "Ese es un mamon, su alias es @Yuji2020." 
 
  
